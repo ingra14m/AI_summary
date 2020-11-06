@@ -1,0 +1,10 @@
+Anyang Zhengzhou 200 Beijing 500 Wuhan 600
+Zhengzhou Anyang 200 Nanchang 800 Hefei 120
+Beijing Xian 700 Wuhan 900 Anyang 500
+Wuhan Nanchang 900 Hefei 450 Anyang 600 Beijing 900
+Nanchang Shenzhen 400 Xiamen 700 Zhengzhou 800 Wuhan 900
+Hefei Zhengzhou 120 Wuhan 450
+Xian Beijing 700
+Shenzhen HongKong 50 Nanchang 400
+HongKong Shenzhen 50 Xiamen 500
+Xiamen HongKong 500 Nanchang 700
