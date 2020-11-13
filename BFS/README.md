@@ -23,4 +23,4 @@ A 算法本质上是图搜索和启发式函数的结合，这个启发式函数
 
 每一次将会找$g(n) + h(n)$值最小的**下一状态**。如果有一样的，则并行的向下进行。如果没有，则此分支终止。
 
-![image-20201113214822187](C:\Users\12612\Desktop\新建文件夹\README.assets\image-20201113214822187.png)
+![image-20201113214822187](https://github.com/ingra14m/AI_summary/blob/main/BFS/README.assets/image-20201113214822187.png?raw=true)
