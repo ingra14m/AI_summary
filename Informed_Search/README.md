@@ -5,7 +5,6 @@
 >- Heuristics
 >- Greedy Search
 >- A* Search
->- Graph Search(BFS、DFS)
 
 # UnInformed Search算法主要有
 >- BFS
